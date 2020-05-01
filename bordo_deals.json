@@ -830,51 +830,6 @@
   {
     "num": "093",
     "format": "",
-    "vintage": 2012,
-    "name": "Clos Puy Arnaud ( Biodynamic ), Case of 6",
-    "casePrice": "$420.00",
-    "btlPrice": "$35.00",
-    "class": "workHorseBordo"
-  },
-  {
-    "num": "094",
-    "format": "",
-    "vintage": 2014,
-    "name": "Clos Puy Arnaud ( Biodynamic ), Case of 6",
-    "casePrice": "$420.00",
-    "btlPrice": "$35.00",
-    "class": "workHorseBordo"
-  },
-  {
-    "num": "095",
-    "format": "",
-    "vintage": 2015,
-    "name": "Galouchey Vin de Jardin ( Marco Pelletier), Case of 6",
-    "casePrice": "$384.00",
-    "btlPrice": "$32.00",
-    "class": "workHorseBordo"
-  },
-  {
-    "num": "096",
-    "format": "",
-    "vintage": 2010,
-    "name": "Chât. Grand Village, Case of 12",
-    "casePrice": "$300.00",
-    "btlPrice": "$25.00",
-    "class": "workHorseBordo"
-  },
-  {
-    "num": "097",
-    "format": "",
-    "vintage": 2010,
-    "name": "Chât. La Grave a Pomerol Trigant de Boisset, Case of 12",
-    "casePrice": "$590.00",
-    "btlPrice": "$49.17",
-    "class": "workHorseBordo"
-  },
-  {
-    "num": "098",
-    "format": "",
     "vintage": 1996,
     "name": "Château Poujeaux, Case of 12",
     "casePrice": "$756.00",
@@ -882,7 +837,7 @@
     "class": "cruBourgeois"
   },
   {
-    "num": "099",
+    "num": "094",
     "format": "",
     "vintage": 1995,
     "name": "Château Poujeaux, Case of 12",
@@ -891,7 +846,7 @@
     "class": "cruBourgeois"
   },
   {
-    "num": 100,
+    "num": "095",
     "format": "",
     "vintage": 1990,
     "name": "Château Poujeaux, Case of 12",
@@ -900,13 +855,58 @@
     "class": "cruBourgeois"
   },
   {
-    "num": 101,
+    "num": "096",
     "format": "",
     "vintage": 1989,
     "name": "Château Poujeaux, Case of 12",
     "casePrice": "$816.00",
     "btlPrice": "$68.00",
     "class": "cruBourgeois"
+  },
+  {
+    "num": "097",
+    "format": "",
+    "vintage": 2012,
+    "name": "Clos Puy Arnaud ( Biodynamic ), Case of 6",
+    "casePrice": "$420.00",
+    "btlPrice": "$35.00",
+    "class": "workHorseBordo"
+  },
+  {
+    "num": "098",
+    "format": "",
+    "vintage": 2014,
+    "name": "Clos Puy Arnaud ( Biodynamic ), Case of 6",
+    "casePrice": "$420.00",
+    "btlPrice": "$35.00",
+    "class": "workHorseBordo"
+  },
+  {
+    "num": "099",
+    "format": "",
+    "vintage": 2015,
+    "name": "Galouchey Vin de Jardin ( Marco Pelletier), Case of 6",
+    "casePrice": "$384.00",
+    "btlPrice": "$32.00",
+    "class": "workHorseBordo"
+  },
+  {
+    "num": 100,
+    "format": "",
+    "vintage": 2010,
+    "name": "Chât. Grand Village, Case of 12",
+    "casePrice": "$300.00",
+    "btlPrice": "$25.00",
+    "class": "workHorseBordo"
+  },
+  {
+    "num": 101,
+    "format": "",
+    "vintage": 2010,
+    "name": "Chât. La Grave a Pomerol Trigant de Boisset, Case of 12",
+    "casePrice": "$590.00",
+    "btlPrice": "$49.17",
+    "class": "workHorseBordo"
   },
   {
     "num": 102,
