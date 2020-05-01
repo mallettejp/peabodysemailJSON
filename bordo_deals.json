@@ -697,8 +697,8 @@
     "format": "",
     "vintage": 1995,
     "name": "Chateau Margaux, Case of 12",
-    "casePrice": "$8,567.50",
-    "btlPrice": "$713.96",
+    "casePrice": "$8,627.50",
+    "btlPrice": "$718.96",
     "class": "topTier"
   },
   {
@@ -706,8 +706,8 @@
     "format": "",
     "vintage": 1996,
     "name": "Chateau Margaux, Case of 12",
-    "casePrice": "$11,730.00",
-    "btlPrice": "$977.50",
+    "casePrice": "$11,790.00",
+    "btlPrice": "$982.50",
     "class": "topTier"
   },
   {
@@ -715,8 +715,8 @@
     "format": "",
     "vintage": 1998,
     "name": "Chateau Margaux, Case of 12",
-    "casePrice": "$7,158.75",
-    "btlPrice": "$596.56",
+    "casePrice": "$7,218.75",
+    "btlPrice": "$601.56",
     "class": "topTier"
   },
   {
@@ -724,8 +724,8 @@
     "format": "",
     "vintage": 2008,
     "name": "Chateau Margaux, Case of 6",
-    "casePrice": "$4,312.50",
-    "btlPrice": "$359.38",
+    "casePrice": "$4,342.50",
+    "btlPrice": "$364.38",
     "class": "topTier"
   },
   {
@@ -733,8 +733,8 @@
     "format": "",
     "vintage": 1995,
     "name": "Chateau Mouton Rothschild, Case of 12",
-    "casePrice": "$8,280.00",
-    "btlPrice": "$690.00",
+    "casePrice": "$8,340.00",
+    "btlPrice": "$695.00",
     "class": "topTier"
   },
   {
@@ -742,8 +742,8 @@
     "format": "",
     "vintage": 1996,
     "name": "Chateau Mouton Rothschild, Case of 12",
-    "casePrice": "$8,280.00",
-    "btlPrice": "$690.00",
+    "casePrice": "$8,340.00",
+    "btlPrice": "$695.00",
     "class": "topTier"
   },
   {
@@ -751,8 +751,8 @@
     "format": "",
     "vintage": 1998,
     "name": "Chateau Mouton Rothschild, Case of 12",
-    "casePrice": "$7,935.00",
-    "btlPrice": "$661.25",
+    "casePrice": "$7,995.00",
+    "btlPrice": "$666.25",
     "class": "topTier"
   },
   {
@@ -760,8 +760,8 @@
     "format": "",
     "vintage": 2006,
     "name": "Chateau Mouton Rothschild, Case of 12",
-    "casePrice": "$7,963.75",
-    "btlPrice": "$663.65",
+    "casePrice": "$8,023.75",
+    "btlPrice": "$668.65",
     "class": "topTier"
   },
   {
@@ -769,8 +769,8 @@
     "format": "",
     "vintage": 2008,
     "name": "Chateau Mouton Rothschild, Case of 6",
-    "casePrice": "$3,984.75",
-    "btlPrice": "$332.06",
+    "casePrice": "$4,044.75",
+    "btlPrice": "$337.06",
     "class": "topTier"
   },
   {
@@ -778,53 +778,53 @@
     "format": "",
     "vintage": 2014,
     "name": "Chateau Petrus Pomerol, 1.5L Case of 3 Magnums",
-    "casePrice": "$18,975.00",
-    "btlPrice": "$1,581.25",
+    "casePrice": "$18,990.00",
+    "btlPrice": "$1,586.25",
     "class": "topTier"
   },
   {
     "num": "088",
-    "format": "",
+    "format": "375ml",
     "vintage": 1989,
-    "name": "Château d'Yquem - 375ml x 24",
-    "casePrice": "$5,922.50",
-    "btlPrice": "$493.54",
+    "name": "Château d'Yquem, case of 12",
+    "casePrice": "$5,982.50",
+    "btlPrice": "$498.54",
     "class": "sauternes"
   },
   {
     "num": "089",
-    "format": "",
+    "format": "750ml",
     "vintage": 1990,
-    "name": "Château d'Yquem - 750ml x 12",
-    "casePrice": "$5,635.00",
-    "btlPrice": "$469.58",
+    "name": "Château d'Yquem, case of 12",
+    "casePrice": "$5,695.00",
+    "btlPrice": "$474.58",
     "class": "sauternes"
   },
   {
     "num": "090",
-    "format": "",
+    "format": "375ml",
     "vintage": 2010,
-    "name": "Château Rieussec - 375ml x 12",
-    "casePrice": "$552.00",
-    "btlPrice": "$46.00",
+    "name": "Château Rieussec, case of 12",
+    "casePrice": "$612.00",
+    "btlPrice": "$51.00",
     "class": "sauternes"
   },
   {
     "num": "091",
-    "format": "",
+    "format": "750ml",
     "vintage": 2010,
-    "name": "Château Rieussec - 750ml x 6",
-    "casePrice": "$427.80",
-    "btlPrice": "$71.30",
+    "name": "Château Rieussec, case of 6",
+    "casePrice": "$457.80",
+    "btlPrice": "$76.30",
     "class": "sauternes"
   },
   {
     "num": "092",
-    "format": "",
+    "format": "375ml",
     "vintage": 2010,
-    "name": "Château Coutet - 375ml x 24",
-    "casePrice": "$993.60",
-    "btlPrice": "$41.40",
+    "name": "Château Coutet, case of 24",
+    "casePrice": "$1,113.60",
+    "btlPrice": "$46.40",
     "class": "sauternes"
   },
   {
@@ -832,8 +832,8 @@
     "format": "",
     "vintage": 1996,
     "name": "Château Poujeaux, Case of 12",
-    "casePrice": "$869.40",
-    "btlPrice": "$72.45",
+    "casePrice": "$929.40",
+    "btlPrice": "$77.45",
     "class": "cruBourgeois"
   },
   {
@@ -841,8 +841,8 @@
     "format": "",
     "vintage": 1995,
     "name": "Château Poujeaux, Case of 12",
-    "casePrice": "$897.00",
-    "btlPrice": "$74.75",
+    "casePrice": "$957.00",
+    "btlPrice": "$79.75",
     "class": "cruBourgeois"
   },
   {
@@ -850,8 +850,8 @@
     "format": "",
     "vintage": 1990,
     "name": "Château Poujeaux, Case of 12",
-    "casePrice": "$938.40",
-    "btlPrice": "$78.20",
+    "casePrice": "$998.40",
+    "btlPrice": "$83.20",
     "class": "cruBourgeois"
   },
   {
@@ -859,8 +859,8 @@
     "format": "",
     "vintage": 1989,
     "name": "Château Poujeaux, Case of 12",
-    "casePrice": "$938.40",
-    "btlPrice": "$78.20",
+    "casePrice": "$998.40",
+    "btlPrice": "$83.20",
     "class": "cruBourgeois"
   },
   {
@@ -868,8 +868,8 @@
     "format": "",
     "vintage": 2012,
     "name": "Clos Puy Arnaud ( Biodynamic ), Case of 6",
-    "casePrice": "$483.00",
-    "btlPrice": "$40.25",
+    "casePrice": "$513.00",
+    "btlPrice": "$45.25",
     "class": "workHorseBordo"
   },
   {
@@ -877,8 +877,8 @@
     "format": "",
     "vintage": 2014,
     "name": "Clos Puy Arnaud ( Biodynamic ), Case of 6",
-    "casePrice": "$483.00",
-    "btlPrice": "$40.25",
+    "casePrice": "$513.00",
+    "btlPrice": "$45.25",
     "class": "workHorseBordo"
   },
   {
@@ -886,8 +886,8 @@
     "format": "",
     "vintage": 2015,
     "name": "Galouchey Vin de Jardin ( Marco Pelletier), Case of 6",
-    "casePrice": "$441.60",
-    "btlPrice": "$36.80",
+    "casePrice": "$471.60",
+    "btlPrice": "$41.80",
     "class": "workHorseBordo"
   },
   {
@@ -895,8 +895,8 @@
     "format": "",
     "vintage": 2010,
     "name": "Chât. Grand Village, Case of 12",
-    "casePrice": "$345.00",
-    "btlPrice": "$28.75",
+    "casePrice": "$405.00",
+    "btlPrice": "$33.75",
     "class": "workHorseBordo"
   },
   {
@@ -904,8 +904,8 @@
     "format": "",
     "vintage": 2010,
     "name": "Chât. La Grave a Pomerol Trigant de Boisset, Case of 12",
-    "casePrice": "$678.50",
-    "btlPrice": "$56.54",
+    "casePrice": "$738.50",
+    "btlPrice": "$61.54",
     "class": "workHorseBordo"
   },
   {
@@ -913,8 +913,8 @@
     "format": "",
     "vintage": 2016,
     "name": "Jean Luc Jamet Cotes du Rhone Blanc",
-    "casePrice": "$262.20",
-    "btlPrice": "$21.85",
+    "casePrice": "$322.20",
+    "btlPrice": "$26.85",
     "class": "rhone"
   },
   {
@@ -922,8 +922,8 @@
     "format": "",
     "vintage": 2017,
     "name": "Jean Luc Jamet Pinot Noir \"Schistes\" ( Rare )",
-    "casePrice": "$690.00",
-    "btlPrice": "$57.50",
+    "casePrice": "$750.00",
+    "btlPrice": "$62.50",
     "class": "rhone"
   },
   {
@@ -931,8 +931,8 @@
     "format": "",
     "vintage": 2014,
     "name": "Jean-Luc Jamet VdP Des Collines Rhodaniennes Valine",
-    "casePrice": "$303.60",
-    "btlPrice": "$25.30",
+    "casePrice": "$363.60",
+    "btlPrice": "$30.30",
     "class": "rhone"
   },
   {
@@ -940,8 +940,8 @@
     "format": "",
     "vintage": 2016,
     "name": "Jean-Luc Jamet VdP Des Collines Rhodaniennes Valine",
-    "casePrice": "$303.60",
-    "btlPrice": "$25.30",
+    "casePrice": "$363.60",
+    "btlPrice": "$30.30",
     "class": "rhone"
   },
   {
@@ -949,8 +949,8 @@
     "format": "",
     "vintage": 2013,
     "name": "Jean-Luc Jamet Cote-Rotie Terrasses",
-    "casePrice": "$993.60",
-    "btlPrice": "$82.80",
+    "casePrice": "$1,053.60",
+    "btlPrice": "$87.80",
     "class": "rhone"
   },
   {
@@ -958,8 +958,8 @@
     "format": "",
     "vintage": 2014,
     "name": "Jean-Luc Jamet Cote-Rotie Terrasses",
-    "casePrice": "$993.60",
-    "btlPrice": "$82.80",
+    "casePrice": "$1,053.60",
+    "btlPrice": "$87.80",
     "class": "rhone"
   },
   {
@@ -967,8 +967,8 @@
     "format": "",
     "vintage": 2015,
     "name": "Jean-Luc Jamet Cote-Rotie Terrasses",
-    "casePrice": "$993.60",
-    "btlPrice": "$82.80",
+    "casePrice": "$1,053.60",
+    "btlPrice": "$87.80",
     "class": "rhone"
   },
   {
@@ -976,8 +976,8 @@
     "format": "",
     "vintage": 2018,
     "name": "Jean-Francois Malsert Saint-Joseph Lou Taissou",
-    "casePrice": "$414.00",
-    "btlPrice": "$34.50",
+    "casePrice": "$474.00",
+    "btlPrice": "$39.50",
     "class": "rhone"
   },
   {
@@ -985,8 +985,8 @@
     "format": "",
     "vintage": 2017,
     "name": "Domaine de l'Iserand (JF Malsert) Saint-Joseph",
-    "casePrice": "$331.20",
-    "btlPrice": "$27.60",
+    "casePrice": "$391.20",
+    "btlPrice": "$32.60",
     "class": "rhone"
   },
   {
@@ -994,8 +994,8 @@
     "format": "",
     "vintage": 2018,
     "name": "Jean Francois Malsert Alliance Vin de France",
-    "casePrice": "$248.40",
-    "btlPrice": "$20.70",
+    "casePrice": "$308.40",
+    "btlPrice": "$25.70",
     "class": "rhone"
   },
   {
@@ -1003,8 +1003,8 @@
     "format": "",
     "vintage": 2017,
     "name": "Franck Balthazar Cornas Chaillot",
-    "casePrice": "$1,173.00",
-    "btlPrice": "$97.75",
+    "casePrice": "$1,233.00",
+    "btlPrice": "$102.75",
     "class": "rhone"
   },
   {
@@ -1012,8 +1012,8 @@
     "format": "",
     "vintage": 2017,
     "name": "Franck Balthazar Cornas Cuvée Casimir Balthazar",
-    "casePrice": "$828.00",
-    "btlPrice": "$69.00",
+    "casePrice": "$888.00",
+    "btlPrice": "$74.00",
     "class": "rhone"
   }
 ]
